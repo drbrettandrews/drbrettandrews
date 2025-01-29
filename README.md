@@ -17,31 +17,30 @@ Dean and Professor of Data Science at Belhaven University. I teach people how to
 - R
 - SQL
   
-### Frameworks
-- Django (for web development with Python)
-- Flask (for lightweight web apps or APIs)
-- Pandas & NumPy (for data manipulation and analysis)
-- Scikit-learn (for machine learning and predictive modeling)
-- Matplotlib & Seaborn (for data visualization)
-- PyTorch (if working with neural networks)
-- TensorFlow (for deep learning)
+### Favorite Frameworks
+- Flask
+- Pandas & NumPy 
+- Scikit-learn 
+- Matplotlib & Seaborn 
+- PyTorch
+- TensorFlow
 
 ### Tools
-- Jupyter Notebooks (for exploratory data analysis and teaching)
-- SQL (for database management and querying)
-- Tableau (for business analytics and visualization)
-- Excel (for data analysis and teaching business analytics)
-- Git & GitHub (for version control and collaboration)
-- VS Code & PyCharm (for development)
+- Jupyter Notebooks
+- SQL 
+- Tableau 
+- Excel 
+- Git & GitHub
+- VS Code & PyCharm 
 - AWS (e.g., S3 for storage, SageMaker for machine learning experiments)
-- Google Colab (for collaborative coding and teaching)
+- Google Colab
 
 ### Specialties
-- Data Science & Machine Learning (applied in academia and business)
+- Data Science & Machine Learning 
 - Business Analytics & Decision Support Systems
 - AI Integration in Higher Education and Strategy
-- Curriculum Development (specializing in data science, business, and analytics)
-- Ethical Implications of Technology (especially AI and data science)
+- Data Science Curriculum Development
+- Ethical Implications of Technology
 - Writing and Publishing Educational Material (e.g., books, courses)
 - Statistical Techniques for Decision Making
 
